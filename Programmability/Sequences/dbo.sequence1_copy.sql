@@ -1,0 +1,7 @@
+﻿CREATE SEQUENCE [dbo].[sequence1_copy]
+  AS bigint
+  START WITH 0
+  INCREMENT BY 1
+  NO CYCLE
+  NO CACHE
+GO
